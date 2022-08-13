@@ -1,3 +1,4 @@
+CSUF CPSC 121 TuffyNotes Project
 # TuffyNotes Project
 
 ## Project specifications
